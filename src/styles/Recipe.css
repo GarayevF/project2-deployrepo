@@ -372,7 +372,7 @@ button:focus {
   cursor: pointer;
 }
 
-/* Genel Konteyner */
+
 .filter-sort-search-container {
   display: flex;
   justify-content: space-between;
@@ -385,7 +385,7 @@ button:focus {
   box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
 }
 
-/* Her Bölüm için Genel Stiller */
+
 .filter-section,
 .sort-section,
 .search-section {
@@ -395,7 +395,7 @@ button:focus {
   gap: 10px;
 }
 
-/* Başlık Stilleri */
+
 .filter-sort-search-container h3 {
   margin: 0 0 10px;
   font-size: 1.2rem;
