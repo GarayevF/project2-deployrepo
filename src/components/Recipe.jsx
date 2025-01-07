@@ -243,7 +243,7 @@ const Recipe = () => {
     if (editIndex !== null) {
       const updatedRecipes = [...recipes];
       updatedRecipes[index][name] = value;
-      updatedRecipes[index].lastUpdated = new Date().toLocaleString();
+      updatedRecipes[index].date = new Date().toLocaleString();
       setRecipes(updatedRecipes);
     } else {
       setNewRecipe({ ...newRecipe, [name]: value });
@@ -257,7 +257,7 @@ const Recipe = () => {
       body: JSON.stringify({
         ...newRecipe,
         id: Date.now().toString(),
-        lastUpdated: new Date().toLocaleString()
+        date: new Date().toLocaleString()
       }),
     })
       .then((res) => res.json())

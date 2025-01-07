@@ -22,19 +22,19 @@ function Main() {
 
   const projects = [
     {
-      title: "Website",
-      description: "",
-      link: "",
+      title: "Github repo",
+      description: "The github repo with all our commits",
+      link: "https://github.com/GarayevF/Project2",
     },
     {
-      title: "Website",
-      description: "",
-      link: "",
+      title: "Second Github Repo",
+      description: "The duplicate repo we use to deploy the site",
+      link: "https://github.com/GarayevF/project2-deployrepo",
     },
     {
-      title: "Website",
-      description: "",
-      link: "",
+      title: "API Server",
+      description: "The repo where our API server is located. We created a webservice on render.com through this repo.",
+      link: "https://github.com/GarayevF/project2_data",
     },
     
   ];
