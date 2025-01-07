@@ -345,6 +345,10 @@ button:focus {
   margin-bottom: 10px;
 }
 
+.popup-list-item input{
+  width: unset;
+}
+
 .popup-footer {
   display: flex;
   justify-content: space-between;
@@ -511,6 +515,7 @@ button:focus {
   padding: 20px;
   width: 400px;
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  height: 80vh;
 }
 
 .popup-header {
@@ -519,7 +524,7 @@ button:focus {
 }
 
 .popup-list {
-  max-height: 200px;
+  max-height: 1000px;
   overflow-y: auto;
   margin-bottom: 15px;
 }
