@@ -10,7 +10,6 @@ function App() {
     <BrowserRouter>
       <div className="App">
         <Navbar />
-        <Main />
         <Routes>
           <Route path="/" element={<Main />} />
           <Route path="/recipes" element={<Recipe />} />
