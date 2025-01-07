@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/project2-deploy-repo/static/css/main.b4168ee3.css",
-    "main.js": "/project2-deploy-repo/static/js/main.f1012ce6.js",
-    "static/js/488.5e419ff5.chunk.js": "/project2-deploy-repo/static/js/488.5e419ff5.chunk.js",
-    "index.html": "/project2-deploy-repo/index.html",
-    "main.b4168ee3.css.map": "/project2-deploy-repo/static/css/main.b4168ee3.css.map",
-    "main.f1012ce6.js.map": "/project2-deploy-repo/static/js/main.f1012ce6.js.map",
-    "488.5e419ff5.chunk.js.map": "/project2-deploy-repo/static/js/488.5e419ff5.chunk.js.map"
+    "main.css": "/project2-deployrepo/static/css/main.b4168ee3.css",
+    "main.js": "/project2-deployrepo/static/js/main.bc40ece7.js",
+    "static/js/488.5e419ff5.chunk.js": "/project2-deployrepo/static/js/488.5e419ff5.chunk.js",
+    "index.html": "/project2-deployrepo/index.html",
+    "main.b4168ee3.css.map": "/project2-deployrepo/static/css/main.b4168ee3.css.map",
+    "main.bc40ece7.js.map": "/project2-deployrepo/static/js/main.bc40ece7.js.map",
+    "488.5e419ff5.chunk.js.map": "/project2-deployrepo/static/js/488.5e419ff5.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b4168ee3.css",
-    "static/js/main.f1012ce6.js"
+    "static/js/main.bc40ece7.js"
   ]
 }
